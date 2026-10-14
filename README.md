@@ -2,6 +2,8 @@
 
 An end-to-end retail business intelligence project leveraging **Google BigQuery SQL**, **Power BI (DAX)**, and **Figma UI/UX Prototyping** to evaluate sales revenue, profit margins, discount impact, and customer demographics for an omnichannel retail brand. 
 
+The original dataset can be found here: https://www.kaggle.com/datasets/danielsowah123/retail-sales-dataset?select=sales_data_dictionary.csv
+
 ---
 
 ## 📌 Project Overview
